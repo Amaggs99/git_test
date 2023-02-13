@@ -1,6 +1,6 @@
 Steps To Upload 
 
 One - create changes to file then save changes in editor.
-Two - git add .
+Two add to staging  - git add .  
 Three - git commit -m "Comment changes made"
 Four - git push 
